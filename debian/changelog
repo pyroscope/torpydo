@@ -1,0 +1,5 @@
+torpydo (0.1) precise; urgency=low
+
+  * Initial refactoring from 'pyrocore'
+
+ -- pyroscope <pyroscope.project@gmail.com>  Wed, 04 Mar 2015 21:11:26 +0100
