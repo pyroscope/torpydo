@@ -1,0 +1,4 @@
+Paver
+nose
+bpython
+pyrobase
