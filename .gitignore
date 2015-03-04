@@ -52,3 +52,12 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# virtualenv etc.
+EGG-INFO/
+bin/
+include/
+local/
+man/
+pip-selfcheck.json
+share/
